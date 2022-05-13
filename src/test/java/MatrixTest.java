@@ -11,8 +11,8 @@ public class MatrixTest {
     private static final int MATRIX_LENGTH = 5;
 
     // TODO: Uncomment testcase to test sumOfNumbersDivisibleByFive method.
-    /*
-    @Test
+
+   /* @Test
     public void testSumOfNumbersDivisibleByFive() {
         int[][] matrix = {
                 { 84,  67,  22, -72,  95},
@@ -24,11 +24,11 @@ public class MatrixTest {
 
         assertEquals(245, Matrix.sumOfNumbersDivisibleByFive(matrix));
     }
-    */
+
 
     // TODO: Uncomment testcase to test indexOfRowsWithZeros method.
-    /*
-    @Test
+
+    /*@Test
     public void testIndexOfRowsWithZeros() {
         int[][] matrix = {
                 { 84,  67,  22, -72,  95},
@@ -43,5 +43,5 @@ public class MatrixTest {
         assertEquals(1, actual.size());
         assertTrue(actual.contains(4));
     }
-    */
+*/
 }
